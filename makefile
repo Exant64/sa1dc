@@ -33,7 +33,7 @@ FIX_INLINE := tools/fix_inline_asm.py
 
 FIX_INLINE_C := tools/inline_asm_c.py
 
-DCSPLIT := tools/dcsplit.py
+DCSPLIT := tools/dcsplit/dcsplit.py
 
 SHC_DIR := shc
 
@@ -51,8 +51,8 @@ export WSLENV=SHC_LIB/p:SHC_TMP/p
 #the source dir (original layout was like that too) and katana includes
 INCLUDEDIRS := src,Include,$(SHC_DIR)\\include
 
-CFLAGS := -comment=nonest -cpu=sh4 -division=cpu -fpu=single  -extra=a=1800 -optimize=1 -pic=0 -macsave=0 \
-	-speed -loop -string=const -round=nearest -code=asmcode -include=$(INCLUDEDIRS)
+CFLAGS := -comment=nonest -cpu=sh4 -division=cpu -extra=a=1800 -optimize=1 -pic=0 -macsave=0 \
+	-speed -endian=little -string=const -code=asmcode -include=$(INCLUDEDIRS)
 
 ASFLAGS := -cpu=sh4 -endian=little -sjis -include=asm
 
@@ -84,8 +84,11 @@ $(1ST_READ_ELF): $(O_FILES)
 
 #we should put the asm_processor thing inbetween these two steps (or maybe in the script)
 build/src/%.obj: src/%.c
+	$(eval TMPDIR=$(shell mktemp -p $(SHC_DIR)/temp -d XXXXX))
+	$(eval export SHC_TMP=$(shell $(WINPATH) $(abspath $(TMPDIR))))
 	$(FIX_INLINE_C) $< build/$<
 	$(PATHHELP) $(CC) build/$< $(CFLAGS) -objectfile=$(@:.obj=.src)
+	rmdir $(TMPDIR)
 	$(FIX_INLINE) $(@:.obj=.src)
 	$(PATHHELP) $(AS) $(@:.obj=.src) $(ASFLAGS) -object=$@
 

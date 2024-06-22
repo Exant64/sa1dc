@@ -4,9 +4,9 @@ INLINE_ASM(_func_8C09DEA0, "asm/nonmatching/./task/_func_8C09DEA0.src");
 
 INLINE_ASM(_func_8C09DEA4, "asm/nonmatching/./task/_func_8C09DEA4.src");
 
-INLINE_ASM(_func_8C09DEAA, "asm/nonmatching/./task/_func_8C09DEAA.src");
+INLINE_ASM(_InitTask, "asm/nonmatching/./task/_InitTask.src");
 
-INLINE_ASM(_func_8C09DFBA, "asm/nonmatching/./task/_func_8C09DFBA.src");
+INLINE_ASM(_CreateElementalTask, "asm/nonmatching/./task/_CreateElementalTask.src");
 
 INLINE_ASM(_func_8C09E07E, "asm/nonmatching/./task/_func_8C09E07E.src");
 

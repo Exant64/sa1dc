@@ -10,5 +10,5 @@ INLINE_ASM(_func_8C05E2FE, "asm/nonmatching/./code_4e040/_func_8C05E2FE.src");
 
 INLINE_ASM(_InitialDynamite, "asm/nonmatching/./code_4e040/_InitialDynamite.src");
 
-INLINE_ASM(_func_8C05E39C, "asm/nonmatching/./code_4e040/_func_8C05E39C.src");
+INLINE_ASM(_func_8C05E3A4, "asm/nonmatching/./code_4e040/_func_8C05E3A4.src");
 

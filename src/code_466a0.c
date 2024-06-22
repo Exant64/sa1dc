@@ -14,5 +14,5 @@ INLINE_ASM(_func_8C056860, "asm/nonmatching/./code_466a0/_func_8C056860.src");
 
 INLINE_ASM(_func_8C05687C, "asm/nonmatching/./code_466a0/_func_8C05687C.src");
 
-INLINE_ASM(_func_8C0568A0, "asm/nonmatching/./code_466a0/_func_8C0568A0.src");
+INLINE_ASM(_func_8C056898, "asm/nonmatching/./code_466a0/_func_8C056898.src");
 

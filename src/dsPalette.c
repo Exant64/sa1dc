@@ -34,7 +34,7 @@ INLINE_ASM(_func_8C0386E2, "asm/nonmatching/./dsPalette/_func_8C0386E2.src");
 
 INLINE_ASM(_func_8C038892, "asm/nonmatching/./dsPalette/_func_8C038892.src");
 
-INLINE_ASM(_func_8C0389A0, "asm/nonmatching/./dsPalette/_func_8C0389A0.src");
+INLINE_ASM(_func_8C038994, "asm/nonmatching/./dsPalette/_func_8C038994.src");
 
 INLINE_ASM(_func_8C038B5C, "asm/nonmatching/./dsPalette/_func_8C038B5C.src");
 
@@ -66,7 +66,7 @@ INLINE_ASM(_dsOpenDraw_S, "asm/nonmatching/./dsPalette/_dsOpenDraw_S.src");
 
 INLINE_ASM(_func_8C039DFE, "asm/nonmatching/./dsPalette/_func_8C039DFE.src");
 
-INLINE_ASM(_func_8C039E40, "asm/nonmatching/./dsPalette/_func_8C039E40.src");
+INLINE_ASM(_func_8C039E34, "asm/nonmatching/./dsPalette/_func_8C039E34.src");
 
 INLINE_ASM(_func_8C039F1A, "asm/nonmatching/./dsPalette/_func_8C039F1A.src");
 

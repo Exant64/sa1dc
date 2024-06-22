@@ -8,7 +8,7 @@ INLINE_ASM(_func_8C05BAB2, "asm/nonmatching/./object/_func_8C05BAB2.src");
 
 INLINE_ASM(_func_8C05BDB0, "asm/nonmatching/./object/_func_8C05BDB0.src");
 
-INLINE_ASM(_func_8C05BDEA, "asm/nonmatching/./object/_func_8C05BDEA.src");
+INLINE_ASM(_func_8C05BE20, "asm/nonmatching/./object/_func_8C05BE20.src");
 
 INLINE_ASM(_func_8C05BE9A, "asm/nonmatching/./object/_func_8C05BE9A.src");
 
@@ -24,7 +24,7 @@ INLINE_ASM(_func_8C05C070, "asm/nonmatching/./object/_func_8C05C070.src");
 
 INLINE_ASM(_func_8C05C0D8, "asm/nonmatching/./object/_func_8C05C0D8.src");
 
-INLINE_ASM(_func_8C05C12A, "asm/nonmatching/./object/_func_8C05C12A.src");
+INLINE_ASM(_func_8C05C160, "asm/nonmatching/./object/_func_8C05C160.src");
 
 INLINE_ASM(_func_8C05C1BA, "asm/nonmatching/./object/_func_8C05C1BA.src");
 
@@ -44,9 +44,7 @@ INLINE_ASM(_func_8C05C4D0, "asm/nonmatching/./object/_func_8C05C4D0.src");
 
 INLINE_ASM(_func_8C05C568, "asm/nonmatching/./object/_func_8C05C568.src");
 
-INLINE_ASM(_func_8C05C674, "asm/nonmatching/./object/_func_8C05C674.src");
-
-INLINE_ASM(_func_8C05C68C, "asm/nonmatching/./object/_func_8C05C68C.src");
+INLINE_ASM(_func_8C05C6C0, "asm/nonmatching/./object/_func_8C05C6C0.src");
 
 INLINE_ASM(_func_8C05C7E8, "asm/nonmatching/./object/_func_8C05C7E8.src");
 
@@ -54,11 +52,15 @@ INLINE_ASM(_func_8C05C822, "asm/nonmatching/./object/_func_8C05C822.src");
 
 INLINE_ASM(_func_8C05C856, "asm/nonmatching/./object/_func_8C05C856.src");
 
-INLINE_ASM(_func_8C05C898, "asm/nonmatching/./object/_func_8C05C898.src");
+INLINE_ASM(_func_8C05C900, "asm/nonmatching/./object/_func_8C05C900.src");
+
+INLINE_ASM(_func_8C05C916, "asm/nonmatching/./object/_func_8C05C916.src");
+
+INLINE_ASM(_func_8C05C95E, "asm/nonmatching/./object/_func_8C05C95E.src");
 
 INLINE_ASM(_func_8C05C9CA, "asm/nonmatching/./object/_func_8C05C9CA.src");
 
-INLINE_ASM(_func_8C05CA6C, "asm/nonmatching/./object/_func_8C05CA6C.src");
+INLINE_ASM(_func_8C05CAC0, "asm/nonmatching/./object/_func_8C05CAC0.src");
 
-INLINE_ASM(_func_8C05CA84, "asm/nonmatching/./object/_func_8C05CA84.src");
+INLINE_ASM(_func_8C05CB48, "asm/nonmatching/./object/_func_8C05CB48.src");
 

@@ -54,7 +54,7 @@ INLINE_ASM(_func_8C041596, "asm/nonmatching/./___draw/_func_8C041596.src");
 
 INLINE_ASM(_func_8C0415D6, "asm/nonmatching/./___draw/_func_8C0415D6.src");
 
-INLINE_ASM(_func_8C04164C, "asm/nonmatching/./___draw/_func_8C04164C.src");
+INLINE_ASM(_func_8C041616, "asm/nonmatching/./___draw/_func_8C041616.src");
 
 INLINE_ASM(_func_8C04168C, "asm/nonmatching/./___draw/_func_8C04168C.src");
 
@@ -74,5 +74,5 @@ INLINE_ASM(_func_8C041910, "asm/nonmatching/./___draw/_func_8C041910.src");
 
 INLINE_ASM(_func_8C041976, "asm/nonmatching/./___draw/_func_8C041976.src");
 
-INLINE_ASM(_func_8C0419C4, "asm/nonmatching/./___draw/_func_8C0419C4.src");
+INLINE_ASM(_func_8C0419B6, "asm/nonmatching/./___draw/_func_8C0419B6.src");
 

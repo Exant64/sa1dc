@@ -10,7 +10,7 @@ INLINE_ASM(_func_8C01942C, "asm/nonmatching/./code_8f60/_func_8C01942C.src");
 
 INLINE_ASM(_func_8C019BCE, "asm/nonmatching/./code_8f60/_func_8C019BCE.src");
 
-INLINE_ASM(_func_8C019C64, "asm/nonmatching/./code_8f60/_func_8C019C64.src");
+INLINE_ASM(_func_8C019CA0, "asm/nonmatching/./code_8f60/_func_8C019CA0.src");
 
-INLINE_ASM(_func_8C01A170, "asm/nonmatching/./code_8f60/_func_8C01A170.src");
+INLINE_ASM(_func_8C01A184, "asm/nonmatching/./code_8f60/_func_8C01A184.src");
 

@@ -18,37 +18,69 @@ INLINE_ASM(_func_8C04F86E, "asm/nonmatching/./game/_func_8C04F86E.src");
 
 INLINE_ASM(_func_8C04F878, "asm/nonmatching/./game/_func_8C04F878.src");
 
-INLINE_ASM(_func_8C04F908, "asm/nonmatching/./game/_func_8C04F908.src");
+INLINE_ASM(_func_8C04F960, "asm/nonmatching/./game/_func_8C04F960.src");
 
-INLINE_ASM(_func_8C04F98E, "asm/nonmatching/./game/_func_8C04F98E.src");
+INLINE_ASM(_func_8C04F9C0, "asm/nonmatching/./game/_func_8C04F9C0.src");
 
-INLINE_ASM(_func_8C04FA1C, "asm/nonmatching/./game/_func_8C04FA1C.src");
+INLINE_ASM(_Action, "asm/nonmatching/./game/_Action.src");
 
 INLINE_ASM(_func_8C050810, "asm/nonmatching/./game/_func_8C050810.src");
 
 INLINE_ASM(_func_8C05084E, "asm/nonmatching/./game/_func_8C05084E.src");
 
-INLINE_ASM(_func_8C0508CA, "asm/nonmatching/./game/_func_8C0508CA.src");
+INLINE_ASM(_func_8C050940, "asm/nonmatching/./game/_func_8C050940.src");
 
-INLINE_ASM(_func_8C05175E, "asm/nonmatching/./game/_func_8C05175E.src");
+INLINE_ASM(_func_8C050A40, "asm/nonmatching/./game/_func_8C050A40.src");
 
-INLINE_ASM(_func_8C051874, "asm/nonmatching/./game/_func_8C051874.src");
+INLINE_ASM(_func_8C0514C4, "asm/nonmatching/./game/_func_8C0514C4.src");
+
+INLINE_ASM(_func_8C0514E8, "asm/nonmatching/./game/_func_8C0514E8.src");
+
+INLINE_ASM(_InitGameWorks, "asm/nonmatching/./game/_InitGameWorks.src");
+
+INLINE_ASM(_InitializeStage, "asm/nonmatching/./game/_InitializeStage.src");
+
+INLINE_ASM(_GameInit, "asm/nonmatching/./game/_GameInit.src");
+
+INLINE_ASM(_func_8C051900, "asm/nonmatching/./game/_func_8C051900.src");
+
+INLINE_ASM(_GameLoop_with_SyoriOchiTaisaku, "asm/nonmatching/./game/_GameLoop_with_SyoriOchiTaisaku.src");
+
+INLINE_ASM(_func_8C051B8E, "asm/nonmatching/./game/_func_8C051B8E.src");
+
+INLINE_ASM(_func_8C051C80, "asm/nonmatching/./game/_func_8C051C80.src");
+
+INLINE_ASM(_func_8C051DE0, "asm/nonmatching/./game/_func_8C051DE0.src");
+
+INLINE_ASM(_func_8C051F14, "asm/nonmatching/./game/_func_8C051F14.src");
+
+INLINE_ASM(_func_8C051F80, "asm/nonmatching/./game/_func_8C051F80.src");
+
+INLINE_ASM(_func_8C0520A0, "asm/nonmatching/./game/_func_8C0520A0.src");
+
+INLINE_ASM(_func_8C052114, "asm/nonmatching/./game/_func_8C052114.src");
+
+INLINE_ASM(_func_8C052164, "asm/nonmatching/./game/_func_8C052164.src");
+
+INLINE_ASM(_func_8C0521E0, "asm/nonmatching/./game/_func_8C0521E0.src");
 
 INLINE_ASM(_func_8C052210, "asm/nonmatching/./game/_func_8C052210.src");
 
-INLINE_ASM(_func_8C05248A, "asm/nonmatching/./game/_func_8C05248A.src");
+INLINE_ASM(_func_8C0524E0, "asm/nonmatching/./game/_func_8C0524E0.src");
 
-INLINE_ASM(_func_8C0527AC, "asm/nonmatching/./game/_func_8C0527AC.src");
+INLINE_ASM(_SetPlayer, "asm/nonmatching/./game/_SetPlayer.src");
+
+INLINE_ASM(_SetRoundMaster, "asm/nonmatching/./game/_SetRoundMaster.src");
 
 INLINE_ASM(_SetScrollTask, "asm/nonmatching/./game/_SetScrollTask.src");
 
-INLINE_ASM(_func_8C052876, "asm/nonmatching/./game/_func_8C052876.src");
+INLINE_ASM(_func_8C0528A0, "asm/nonmatching/./game/_func_8C0528A0.src");
 
 INLINE_ASM(_func_8C05293A, "asm/nonmatching/./game/_func_8C05293A.src");
 
 INLINE_ASM(_GetPlayerNumber, "asm/nonmatching/./game/_GetPlayerNumber.src");
 
-INLINE_ASM(_func_8C052948, "asm/nonmatching/./game/_func_8C052948.src");
+INLINE_ASM(_func_8C052968, "asm/nonmatching/./game/_func_8C052968.src");
 
 INLINE_ASM(_func_8C0529A6, "asm/nonmatching/./game/_func_8C0529A6.src");
 
@@ -64,7 +96,7 @@ INLINE_ASM(_func_8C052A54, "asm/nonmatching/./game/_func_8C052A54.src");
 
 INLINE_ASM(_func_8C052A5A, "asm/nonmatching/./game/_func_8C052A5A.src");
 
-INLINE_ASM(_func_8C052A78, "asm/nonmatching/./game/_func_8C052A78.src");
+INLINE_ASM(_func_8C052A9C, "asm/nonmatching/./game/_func_8C052A9C.src");
 
 INLINE_ASM(_func_8C052ACE, "asm/nonmatching/./game/_func_8C052ACE.src");
 
@@ -88,5 +120,5 @@ INLINE_ASM(_func_8C0530C0, "asm/nonmatching/./game/_func_8C0530C0.src");
 
 INLINE_ASM(_func_8C0530CA, "asm/nonmatching/./game/_func_8C0530CA.src");
 
-INLINE_ASM(_func_8C0530D4, "asm/nonmatching/./game/_func_8C0530D4.src");
+INLINE_ASM(_func_8C0530F0, "asm/nonmatching/./game/_func_8C0530F0.src");
 

@@ -18,15 +18,13 @@ INLINE_ASM(_FadeOut, "asm/nonmatching/./effect/_FadeOut.src");
 
 INLINE_ASM(_func_8C045BE6, "asm/nonmatching/./effect/_func_8C045BE6.src");
 
-INLINE_ASM(_func_8C045C06, "asm/nonmatching/./effect/_func_8C045C06.src");
+INLINE_ASM(_func_8C045C40, "asm/nonmatching/./effect/_func_8C045C40.src");
 
-INLINE_ASM(_func_8C045C5A, "asm/nonmatching/./effect/_func_8C045C5A.src");
-
-INLINE_ASM(_func_8C045C6C, "asm/nonmatching/./effect/_func_8C045C6C.src");
+INLINE_ASM(_func_8C045C80, "asm/nonmatching/./effect/_func_8C045C80.src");
 
 INLINE_ASM(_func_8C046182, "asm/nonmatching/./effect/_func_8C046182.src");
 
-INLINE_ASM(_func_8C046250, "asm/nonmatching/./effect/_func_8C046250.src");
+INLINE_ASM(_func_8C046280, "asm/nonmatching/./effect/_func_8C046280.src");
 
 INLINE_ASM(_func_8C0462FA, "asm/nonmatching/./effect/_func_8C0462FA.src");
 
@@ -46,5 +44,5 @@ INLINE_ASM(_func_8C04660E, "asm/nonmatching/./effect/_func_8C04660E.src");
 
 INLINE_ASM(_ColorOffset, "asm/nonmatching/./effect/_ColorOffset.src");
 
-INLINE_ASM(_func_8C046664, "asm/nonmatching/./effect/_func_8C046664.src");
+INLINE_ASM(_func_8C0466AC, "asm/nonmatching/./effect/_func_8C0466AC.src");
 

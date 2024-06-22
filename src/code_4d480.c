@@ -4,7 +4,9 @@ INLINE_ASM(_func_8C05D480, "asm/nonmatching/./code_4d480/_func_8C05D480.src");
 
 INLINE_ASM(_func_8C05D55E, "asm/nonmatching/./code_4d480/_func_8C05D55E.src");
 
-INLINE_ASM(_func_8C05D5A4, "asm/nonmatching/./code_4d480/_func_8C05D5A4.src");
+INLINE_ASM(_func_8C05D620, "asm/nonmatching/./code_4d480/_func_8C05D620.src");
+
+INLINE_ASM(_func_8C05D684, "asm/nonmatching/./code_4d480/_func_8C05D684.src");
 
 INLINE_ASM(_func_8C05D6D4, "asm/nonmatching/./code_4d480/_func_8C05D6D4.src");
 

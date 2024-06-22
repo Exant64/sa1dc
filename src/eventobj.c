@@ -16,9 +16,9 @@ INLINE_ASM(_func_8C04E7BA, "asm/nonmatching/./eventobj/_func_8C04E7BA.src");
 
 INLINE_ASM(_func_8C04E82E, "asm/nonmatching/./eventobj/_func_8C04E82E.src");
 
-INLINE_ASM(_func_8C04E868, "asm/nonmatching/./eventobj/_func_8C04E868.src");
+INLINE_ASM(_func_8C04E8A0, "asm/nonmatching/./eventobj/_func_8C04E8A0.src");
 
-INLINE_ASM(_func_8C04E99A, "asm/nonmatching/./eventobj/_func_8C04E99A.src");
+INLINE_ASM(_func_8C04E9E0, "asm/nonmatching/./eventobj/_func_8C04E9E0.src");
 
 INLINE_ASM(_func_8C04EBCE, "asm/nonmatching/./eventobj/_func_8C04EBCE.src");
 
@@ -30,5 +30,5 @@ INLINE_ASM(_func_8C04ED90, "asm/nonmatching/./eventobj/_func_8C04ED90.src");
 
 INLINE_ASM(_func_8C04EDBE, "asm/nonmatching/./eventobj/_func_8C04EDBE.src");
 
-INLINE_ASM(_func_8C04EED6, "asm/nonmatching/./eventobj/_func_8C04EED6.src");
+INLINE_ASM(_func_8C04EF1C, "asm/nonmatching/./eventobj/_func_8C04EF1C.src");
 

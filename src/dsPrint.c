@@ -8,23 +8,23 @@ INLINE_ASM(_func_8C042D76, "asm/nonmatching/./dsPrint/_func_8C042D76.src");
 
 INLINE_ASM(_func_8C042D82, "asm/nonmatching/./dsPrint/_func_8C042D82.src");
 
-INLINE_ASM(_func_8C042D88, "asm/nonmatching/./dsPrint/_func_8C042D88.src");
+INLINE_ASM(_func_8C042DAC, "asm/nonmatching/./dsPrint/_func_8C042DAC.src");
 
-INLINE_ASM(_func_8C042F84, "asm/nonmatching/./dsPrint/_func_8C042F84.src");
+INLINE_ASM(_dsPrintCharacter, "asm/nonmatching/./dsPrint/_dsPrintCharacter.src");
 
-INLINE_ASM(_func_8C043184, "asm/nonmatching/./dsPrint/_func_8C043184.src");
+INLINE_ASM(_func_8C0431E0, "asm/nonmatching/./dsPrint/_func_8C0431E0.src");
 
 INLINE_ASM(_dsPrint, "asm/nonmatching/./dsPrint/_dsPrint.src");
 
-INLINE_ASM(_func_8C0433F8, "asm/nonmatching/./dsPrint/_func_8C0433F8.src");
+INLINE_ASM(_func_8C043460, "asm/nonmatching/./dsPrint/_func_8C043460.src");
 
 INLINE_ASM(_func_8C04371C, "asm/nonmatching/./dsPrint/_func_8C04371C.src");
 
-INLINE_ASM(_func_8C04381E, "asm/nonmatching/./dsPrint/_func_8C04381E.src");
+INLINE_ASM(_func_8C043880, "asm/nonmatching/./dsPrint/_func_8C043880.src");
 
-INLINE_ASM(_func_8C043994, "asm/nonmatching/./dsPrint/_func_8C043994.src");
+INLINE_ASM(_func_8C043A00, "asm/nonmatching/./dsPrint/_func_8C043A00.src");
 
-INLINE_ASM(_func_8C043B98, "asm/nonmatching/./dsPrint/_func_8C043B98.src");
+INLINE_ASM(_func_8C043C00, "asm/nonmatching/./dsPrint/_func_8C043C00.src");
 
-INLINE_ASM(_func_8C043C4A, "asm/nonmatching/./dsPrint/_func_8C043C4A.src");
+INLINE_ASM(_func_8C043C70, "asm/nonmatching/./dsPrint/_func_8C043C70.src");
 

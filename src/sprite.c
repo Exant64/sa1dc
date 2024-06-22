@@ -8,7 +8,7 @@ INLINE_ASM(_func_8C0A389C, "asm/nonmatching/./sprite/_func_8C0A389C.src");
 
 INLINE_ASM(_func_8C0A38D4, "asm/nonmatching/./sprite/_func_8C0A38D4.src");
 
-INLINE_ASM(_func_8C0A38DA, "asm/nonmatching/./sprite/_func_8C0A38DA.src");
+INLINE_ASM(_SpCreateLinkW, "asm/nonmatching/./sprite/_SpCreateLinkW.src");
 
 INLINE_ASM(_func_8C0A392C, "asm/nonmatching/./sprite/_func_8C0A392C.src");
 
@@ -24,13 +24,7 @@ INLINE_ASM(_func_8C0A3A04, "asm/nonmatching/./sprite/_func_8C0A3A04.src");
 
 INLINE_ASM(_func_8C0A3B5E, "asm/nonmatching/./sprite/_func_8C0A3B5E.src");
 
-INLINE_ASM(_func_8C0A3C0A, "asm/nonmatching/./sprite/_func_8C0A3C0A.src");
-
-INLINE_ASM(_func_8C0A3C44, "asm/nonmatching/./sprite/_func_8C0A3C44.src");
-
-INLINE_ASM(_func_8C0A3C50, "asm/nonmatching/./sprite/_func_8C0A3C50.src");
-
-INLINE_ASM(_func_8C0A3C98, "asm/nonmatching/./sprite/_func_8C0A3C98.src");
+INLINE_ASM(_func_8C0A3CA0, "asm/nonmatching/./sprite/_func_8C0A3CA0.src");
 
 INLINE_ASM(_func_8C0A3CD6, "asm/nonmatching/./sprite/_func_8C0A3CD6.src");
 

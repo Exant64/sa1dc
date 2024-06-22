@@ -4,11 +4,9 @@ INLINE_ASM(_func_8C0473C0, "asm/nonmatching/./ef_crash/_func_8C0473C0.src");
 
 INLINE_ASM(_func_8C0473E2, "asm/nonmatching/./ef_crash/_func_8C0473E2.src");
 
-INLINE_ASM(_func_8C04748A, "asm/nonmatching/./ef_crash/_func_8C04748A.src");
+INLINE_ASM(_func_8C0474E0, "asm/nonmatching/./ef_crash/_func_8C0474E0.src");
 
-INLINE_ASM(_func_8C0475AC, "asm/nonmatching/./ef_crash/_func_8C0475AC.src");
+INLINE_ASM(_func_8C047600, "asm/nonmatching/./ef_crash/_func_8C047600.src");
 
-INLINE_ASM(_func_8C0475C8, "asm/nonmatching/./ef_crash/_func_8C0475C8.src");
-
-INLINE_ASM(_func_8C04774E, "asm/nonmatching/./ef_crash/_func_8C04774E.src");
+INLINE_ASM(_func_8C047788, "asm/nonmatching/./ef_crash/_func_8C047788.src");
 

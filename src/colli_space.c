@@ -14,7 +14,7 @@ INLINE_ASM(_func_8C02E9F8, "asm/nonmatching/./colli_space/_func_8C02E9F8.src");
 
 INLINE_ASM(_func_8C02EA92, "asm/nonmatching/./colli_space/_func_8C02EA92.src");
 
-INLINE_ASM(_func_8C02EAFC, "asm/nonmatching/./colli_space/_func_8C02EAFC.src");
+INLINE_ASM(_func_8C02EB20, "asm/nonmatching/./colli_space/_func_8C02EB20.src");
 
 INLINE_ASM(_func_8C02ED48, "asm/nonmatching/./colli_space/_func_8C02ED48.src");
 
@@ -26,5 +26,5 @@ INLINE_ASM(_func_8C02EFC0, "asm/nonmatching/./colli_space/_func_8C02EFC0.src");
 
 INLINE_ASM(_func_8C02EFD8, "asm/nonmatching/./colli_space/_func_8C02EFD8.src");
 
-INLINE_ASM(_func_8C02F18C, "asm/nonmatching/./colli_space/_func_8C02F18C.src");
+INLINE_ASM(_func_8C02F1B0, "asm/nonmatching/./colli_space/_func_8C02F1B0.src");
 

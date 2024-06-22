@@ -10,5 +10,5 @@ INLINE_ASM(_func_8C018CF8, "asm/nonmatching/./flickyeff/_func_8C018CF8.src");
 
 INLINE_ASM(_func_8C018E52, "asm/nonmatching/./flickyeff/_func_8C018E52.src");
 
-INLINE_ASM(_func_8C018F34, "asm/nonmatching/./flickyeff/_func_8C018F34.src");
+INLINE_ASM(_func_8C018F48, "asm/nonmatching/./flickyeff/_func_8C018F48.src");
 

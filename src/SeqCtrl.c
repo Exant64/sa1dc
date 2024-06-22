@@ -6,7 +6,7 @@ INLINE_ASM(_func_8C095078, "asm/nonmatching/./SeqCtrl/_func_8C095078.src");
 
 INLINE_ASM(_func_8C095084, "asm/nonmatching/./SeqCtrl/_func_8C095084.src");
 
-INLINE_ASM(_func_8C09508C, "asm/nonmatching/./SeqCtrl/_func_8C09508C.src");
+INLINE_ASM(_SeqStop, "asm/nonmatching/./SeqCtrl/_SeqStop.src");
 
 INLINE_ASM(_func_8C0950E8, "asm/nonmatching/./SeqCtrl/_func_8C0950E8.src");
 
@@ -14,7 +14,7 @@ INLINE_ASM(_func_8C0950EE, "asm/nonmatching/./SeqCtrl/_func_8C0950EE.src");
 
 INLINE_ASM(_func_8C09513A, "asm/nonmatching/./SeqCtrl/_func_8C09513A.src");
 
-INLINE_ASM(_func_8C0951F8, "asm/nonmatching/./SeqCtrl/_func_8C0951F8.src");
+INLINE_ASM(_func_8C095240, "asm/nonmatching/./SeqCtrl/_func_8C095240.src");
 
 INLINE_ASM(_func_8C0952EA, "asm/nonmatching/./SeqCtrl/_func_8C0952EA.src");
 
@@ -48,9 +48,7 @@ INLINE_ASM(_func_8C0958FA, "asm/nonmatching/./SeqCtrl/_func_8C0958FA.src");
 
 INLINE_ASM(_func_8C09592C, "asm/nonmatching/./SeqCtrl/_func_8C09592C.src");
 
-INLINE_ASM(_func_8C0959B4, "asm/nonmatching/./SeqCtrl/_func_8C0959B4.src");
-
-INLINE_ASM(_func_8C0959D8, "asm/nonmatching/./SeqCtrl/_func_8C0959D8.src");
+INLINE_ASM(_func_8C095A00, "asm/nonmatching/./SeqCtrl/_func_8C095A00.src");
 
 INLINE_ASM(_func_8C095A38, "asm/nonmatching/./SeqCtrl/_func_8C095A38.src");
 
@@ -64,7 +62,7 @@ INLINE_ASM(_EV_PcNpcInit, "asm/nonmatching/./SeqCtrl/_EV_PcNpcInit.src");
 
 INLINE_ASM(_func_8C095B9E, "asm/nonmatching/./SeqCtrl/_func_8C095B9E.src");
 
-INLINE_ASM(_func_8C095BE8, "asm/nonmatching/./SeqCtrl/_func_8C095BE8.src");
+INLINE_ASM(_func_8C095C40, "asm/nonmatching/./SeqCtrl/_func_8C095C40.src");
 
 INLINE_ASM(_func_8C095CFC, "asm/nonmatching/./SeqCtrl/_func_8C095CFC.src");
 
@@ -76,7 +74,7 @@ INLINE_ASM(_func_8C095E18, "asm/nonmatching/./SeqCtrl/_func_8C095E18.src");
 
 INLINE_ASM(_func_8C095FB0, "asm/nonmatching/./SeqCtrl/_func_8C095FB0.src");
 
-INLINE_ASM(_func_8C096016, "asm/nonmatching/./SeqCtrl/_func_8C096016.src");
+INLINE_ASM(_func_8C096040, "asm/nonmatching/./SeqCtrl/_func_8C096040.src");
 
 INLINE_ASM(_func_8C096096, "asm/nonmatching/./SeqCtrl/_func_8C096096.src");
 

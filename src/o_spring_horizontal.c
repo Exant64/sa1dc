@@ -2,9 +2,9 @@
 
 INLINE_ASM(_func_8C06B640, "asm/nonmatching/./o_spring_horizontal/_func_8C06B640.src");
 
-INLINE_ASM(_func_8C06B6FA, "asm/nonmatching/./o_spring_horizontal/_func_8C06B6FA.src");
+INLINE_ASM(_func_8C06B720, "asm/nonmatching/./o_spring_horizontal/_func_8C06B720.src");
 
-INLINE_ASM(_func_8C06B874, "asm/nonmatching/./o_spring_horizontal/_func_8C06B874.src");
+INLINE_ASM(_func_8C06B8C0, "asm/nonmatching/./o_spring_horizontal/_func_8C06B8C0.src");
 
 INLINE_ASM(_func_8C06B9C6, "asm/nonmatching/./o_spring_horizontal/_func_8C06B9C6.src");
 

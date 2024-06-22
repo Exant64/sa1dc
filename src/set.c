@@ -2,19 +2,19 @@
 
 INLINE_ASM(_SetObject, "asm/nonmatching/./set/_SetObject.src");
 
-INLINE_ASM(_func_8C096848, "asm/nonmatching/./set/_func_8C096848.src");
+INLINE_ASM(_func_8C0968A0, "asm/nonmatching/./set/_func_8C0968A0.src");
 
 INLINE_ASM(_func_8C0968DC, "asm/nonmatching/./set/_func_8C0968DC.src");
 
 INLINE_ASM(_func_8C09696C, "asm/nonmatching/./set/_func_8C09696C.src");
 
-INLINE_ASM(_func_8C0969C6, "asm/nonmatching/./set/_func_8C0969C6.src");
+INLINE_ASM(_func_8C096A00, "asm/nonmatching/./set/_func_8C096A00.src");
 
-INLINE_ASM(_func_8C096AB0, "asm/nonmatching/./set/_func_8C096AB0.src");
+INLINE_ASM(_ReviveSetObject, "asm/nonmatching/./set/_ReviveSetObject.src");
 
 INLINE_ASM(_func_8C096B30, "asm/nonmatching/./set/_func_8C096B30.src");
 
-INLINE_ASM(_func_8C096B46, "asm/nonmatching/./set/_func_8C096B46.src");
+INLINE_ASM(_func_8C096B80, "asm/nonmatching/./set/_func_8C096B80.src");
 
 INLINE_ASM(_func_8C096BE8, "asm/nonmatching/./set/_func_8C096BE8.src");
 
@@ -36,7 +36,7 @@ INLINE_ASM(_func_8C096DCC, "asm/nonmatching/./set/_func_8C096DCC.src");
 
 INLINE_ASM(_func_8C096DE6, "asm/nonmatching/./set/_func_8C096DE6.src");
 
-INLINE_ASM(_func_8C096DF2, "asm/nonmatching/./set/_func_8C096DF2.src");
+INLINE_ASM(_func_8C096E06, "asm/nonmatching/./set/_func_8C096E06.src");
 
 INLINE_ASM(_func_8C096E30, "asm/nonmatching/./set/_func_8C096E30.src");
 

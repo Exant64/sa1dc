@@ -10,15 +10,15 @@ INLINE_ASM(_func_8C09450A, "asm/nonmatching/./segalogo/_func_8C09450A.src");
 
 INLINE_ASM(_func_8C094690, "asm/nonmatching/./segalogo/_func_8C094690.src");
 
-INLINE_ASM(_func_8C0946BC, "asm/nonmatching/./segalogo/_func_8C0946BC.src");
+INLINE_ASM(_dsGoDemoLoop, "asm/nonmatching/./segalogo/_dsGoDemoLoop.src");
 
-INLINE_ASM(_func_8C0947AC, "asm/nonmatching/./segalogo/_func_8C0947AC.src");
+INLINE_ASM(_dsInitTitle, "asm/nonmatching/./segalogo/_dsInitTitle.src");
 
 INLINE_ASM(_func_8C09489A, "asm/nonmatching/./segalogo/_func_8C09489A.src");
 
 INLINE_ASM(_func_8C094938, "asm/nonmatching/./segalogo/_func_8C094938.src");
 
-INLINE_ASM(_func_8C09495A, "asm/nonmatching/./segalogo/_func_8C09495A.src");
+INLINE_ASM(_func_8C0949C0, "asm/nonmatching/./segalogo/_func_8C0949C0.src");
 
-INLINE_ASM(_func_8C0949DE, "asm/nonmatching/./segalogo/_func_8C0949DE.src");
+INLINE_ASM(_func_8C0949F4, "asm/nonmatching/./segalogo/_func_8C0949F4.src");
 

@@ -71,6 +71,12 @@ with open(sys.argv[1], "r") as file:
                         out_lines.append(line)
             continue
         
+        if ".ALIGN" in lines[i] and "32" in lines[i]:
+            out_lines.append("\t\t.ENDIAN BIG\n")
+            out_lines.append(lines[i] + "\n")
+            out_lines.append("\t\t.ENDIAN LITTLE\n")
+            continue
+
         if lines[i].strip() == ".ALIGN      4" and lines[i+1].strip() == "RTS" and lines[i+2].strip() == "NOP":
             #if lines[i+3].strip() != ".END":
                 #out_lines.append("\t.ALIGN\t32\n")
@@ -84,6 +90,7 @@ with open(sys.argv[1], "r") as file:
         
 
 with open(sys.argv[1], "w") as file:
+    out_lines = ["\t\t.ENDIAN LITTLE\n"] + out_lines
     if len(import_queue) > 0:
         # remove .end
         out_lines = out_lines[:len(out_lines)-1]

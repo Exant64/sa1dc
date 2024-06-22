@@ -4,13 +4,13 @@ INLINE_ASM(_ClearDownload, "asm/nonmatching/./download/_ClearDownload.src");
 
 INLINE_ASM(_func_8C036212, "asm/nonmatching/./download/_func_8C036212.src");
 
-INLINE_ASM(_func_8C036232, "asm/nonmatching/./download/_func_8C036232.src");
+INLINE_ASM(_func_8C036250, "asm/nonmatching/./download/_func_8C036250.src");
 
-INLINE_ASM(_func_8C036354, "asm/nonmatching/./download/_func_8C036354.src");
+INLINE_ASM(_func_8C0363C0, "asm/nonmatching/./download/_func_8C0363C0.src");
 
 INLINE_ASM(_func_8C0363DC, "asm/nonmatching/./download/_func_8C0363DC.src");
 
-INLINE_ASM(_func_8C03650C, "asm/nonmatching/./download/_func_8C03650C.src");
+INLINE_ASM(_func_8C036560, "asm/nonmatching/./download/_func_8C036560.src");
 
 INLINE_ASM(_func_8C036670, "asm/nonmatching/./download/_func_8C036670.src");
 
@@ -30,15 +30,13 @@ INLINE_ASM(_func_8C036EE8, "asm/nonmatching/./download/_func_8C036EE8.src");
 
 INLINE_ASM(_func_8C036F3E, "asm/nonmatching/./download/_func_8C036F3E.src");
 
-INLINE_ASM(_func_8C036FA6, "asm/nonmatching/./download/_func_8C036FA6.src");
-
-INLINE_ASM(_func_8C036FD0, "asm/nonmatching/./download/_func_8C036FD0.src");
+INLINE_ASM(_func_8C037000, "asm/nonmatching/./download/_func_8C037000.src");
 
 INLINE_ASM(_func_8C037866, "asm/nonmatching/./download/_func_8C037866.src");
 
-INLINE_ASM(_func_8C037888, "asm/nonmatching/./download/_func_8C037888.src");
+INLINE_ASM(_func_8C037900, "asm/nonmatching/./download/_func_8C037900.src");
 
-INLINE_ASM(_func_8C037AEA, "asm/nonmatching/./download/_func_8C037AEA.src");
+INLINE_ASM(_func_8C037B40, "asm/nonmatching/./download/_func_8C037B40.src");
 
 INLINE_ASM(_func_8C037BE8, "asm/nonmatching/./download/_func_8C037BE8.src");
 

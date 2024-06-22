@@ -8,7 +8,7 @@ INLINE_ASM(_func_8C04C0D0, "asm/nonmatching/./eventlib/_func_8C04C0D0.src");
 
 INLINE_ASM(_func_8C04C0D6, "asm/nonmatching/./eventlib/_func_8C04C0D6.src");
 
-INLINE_ASM(_func_8C04C0DC, "asm/nonmatching/./eventlib/_func_8C04C0DC.src");
+INLINE_ASM(_func_8C04C120, "asm/nonmatching/./eventlib/_func_8C04C120.src");
 
 INLINE_ASM(_func_8C04C13C, "asm/nonmatching/./eventlib/_func_8C04C13C.src");
 
@@ -30,11 +30,9 @@ INLINE_ASM(_EV_LoadTex, "asm/nonmatching/./eventlib/_EV_LoadTex.src");
 
 INLINE_ASM(_TH_GetStatus, "asm/nonmatching/./eventlib/_TH_GetStatus.src");
 
-INLINE_ASM(_func_8C04C4D2, "asm/nonmatching/./eventlib/_func_8C04C4D2.src");
+INLINE_ASM(_func_8C04C500, "asm/nonmatching/./eventlib/_func_8C04C500.src");
 
-INLINE_ASM(_func_8C04C5AE, "asm/nonmatching/./eventlib/_func_8C04C5AE.src");
-
-INLINE_ASM(_func_8C04C5E0, "asm/nonmatching/./eventlib/_func_8C04C5E0.src");
+INLINE_ASM(_func_8C04C600, "asm/nonmatching/./eventlib/_func_8C04C600.src");
 
 INLINE_ASM(_func_8C04C67E, "asm/nonmatching/./eventlib/_func_8C04C67E.src");
 
@@ -44,11 +42,25 @@ INLINE_ASM(_func_8C04C7C0, "asm/nonmatching/./eventlib/_func_8C04C7C0.src");
 
 INLINE_ASM(_EV_Exec2, "asm/nonmatching/./eventlib/_EV_Exec2.src");
 
-INLINE_ASM(_func_8C04C852, "asm/nonmatching/./eventlib/_func_8C04C852.src");
+INLINE_ASM(_func_8C04C8E0, "asm/nonmatching/./eventlib/_func_8C04C8E0.src");
+
+INLINE_ASM(_func_8C04C902, "asm/nonmatching/./eventlib/_func_8C04C902.src");
+
+INLINE_ASM(_EV_CheckCansel, "asm/nonmatching/./eventlib/_EV_CheckCansel.src");
+
+INLINE_ASM(_EV_CheckExec, "asm/nonmatching/./eventlib/_EV_CheckExec.src");
+
+INLINE_ASM(_func_8C04C92E, "asm/nonmatching/./eventlib/_func_8C04C92E.src");
+
+INLINE_ASM(_func_8C04C974, "asm/nonmatching/./eventlib/_func_8C04C974.src");
+
+INLINE_ASM(_func_8C04CA2C, "asm/nonmatching/./eventlib/_func_8C04CA2C.src");
+
+INLINE_ASM(_func_8C04CA5E, "asm/nonmatching/./eventlib/_func_8C04CA5E.src");
 
 INLINE_ASM(_func_8C04CAC0, "asm/nonmatching/./eventlib/_func_8C04CAC0.src");
 
-INLINE_ASM(_func_8C04CB14, "asm/nonmatching/./eventlib/_func_8C04CB14.src");
+INLINE_ASM(_func_8C04CB40, "asm/nonmatching/./eventlib/_func_8C04CB40.src");
 
 INLINE_ASM(_func_8C04CB6C, "asm/nonmatching/./eventlib/_func_8C04CB6C.src");
 
@@ -62,7 +74,11 @@ INLINE_ASM(_func_8C04CBE4, "asm/nonmatching/./eventlib/_func_8C04CBE4.src");
 
 INLINE_ASM(_func_8C04CBEE, "asm/nonmatching/./eventlib/_func_8C04CBEE.src");
 
-INLINE_ASM(_func_8C04CC54, "asm/nonmatching/./eventlib/_func_8C04CC54.src");
+INLINE_ASM(_func_8C04CCA0, "asm/nonmatching/./eventlib/_func_8C04CCA0.src");
+
+INLINE_ASM(_func_8C04CD04, "asm/nonmatching/./eventlib/_func_8C04CD04.src");
+
+INLINE_ASM(_func_8C04CD20, "asm/nonmatching/./eventlib/_func_8C04CD20.src");
 
 INLINE_ASM(_func_8C04CD6A, "asm/nonmatching/./eventlib/_func_8C04CD6A.src");
 
@@ -80,9 +96,7 @@ INLINE_ASM(_func_8C04CE52, "asm/nonmatching/./eventlib/_func_8C04CE52.src");
 
 INLINE_ASM(_func_8C04CEC0, "asm/nonmatching/./eventlib/_func_8C04CEC0.src");
 
-INLINE_ASM(_func_8C04CEE6, "asm/nonmatching/./eventlib/_func_8C04CEE6.src");
+INLINE_ASM(_func_8C04CF20, "asm/nonmatching/./eventlib/_func_8C04CF20.src");
 
 INLINE_ASM(_func_8C04CFB2, "asm/nonmatching/./eventlib/_func_8C04CFB2.src");
-
-INLINE_ASM(_func_8C04CFD4, "asm/nonmatching/./eventlib/_func_8C04CFD4.src");
 

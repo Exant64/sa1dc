@@ -22,29 +22,17 @@ INLINE_ASM(_func_8C09EDAC, "asm/nonmatching/./texture/_func_8C09EDAC.src");
 
 INLINE_ASM(_func_8C09EE04, "asm/nonmatching/./texture/_func_8C09EE04.src");
 
-INLINE_ASM(_func_8C09EE5C, "asm/nonmatching/./texture/_func_8C09EE5C.src");
-
-INLINE_ASM(_func_8C09EE6C, "asm/nonmatching/./texture/_func_8C09EE6C.src");
+INLINE_ASM(_func_8C09EE80, "asm/nonmatching/./texture/_func_8C09EE80.src");
 
 INLINE_ASM(_func_8C09EEAE, "asm/nonmatching/./texture/_func_8C09EEAE.src");
 
 INLINE_ASM(_func_8C09EF14, "asm/nonmatching/./texture/_func_8C09EF14.src");
 
-INLINE_ASM(_func_8C09EF64, "asm/nonmatching/./texture/_func_8C09EF64.src");
-
-INLINE_ASM(_func_8C09EF88, "asm/nonmatching/./texture/_func_8C09EF88.src");
+INLINE_ASM(_LoadPVM, "asm/nonmatching/./texture/_LoadPVM.src");
 
 INLINE_ASM(_func_8C09F006, "asm/nonmatching/./texture/_func_8C09F006.src");
 
 INLINE_ASM(_func_8C09F0DE, "asm/nonmatching/./texture/_func_8C09F0DE.src");
-
-INLINE_ASM(_func_8C09F1BC, "asm/nonmatching/./texture/_func_8C09F1BC.src");
-
-INLINE_ASM(_func_8C09F1CC, "asm/nonmatching/./texture/_func_8C09F1CC.src");
-
-INLINE_ASM(_func_8C09F1D4, "asm/nonmatching/./texture/_func_8C09F1D4.src");
-
-INLINE_ASM(_func_8C09F1D8, "asm/nonmatching/./texture/_func_8C09F1D8.src");
 
 INLINE_ASM(_func_8C09F1E4, "asm/nonmatching/./texture/_func_8C09F1E4.src");
 

@@ -10,5 +10,5 @@ INLINE_ASM(_func_8C049BA6, "asm/nonmatching/./ef_waterripple_unknown/_func_8C049
 
 INLINE_ASM(_func_8C049CC8, "asm/nonmatching/./ef_waterripple_unknown/_func_8C049CC8.src");
 
-INLINE_ASM(_func_8C049D94, "asm/nonmatching/./ef_waterripple_unknown/_func_8C049D94.src");
+INLINE_ASM(_func_8C049DBC, "asm/nonmatching/./ef_waterripple_unknown/_func_8C049DBC.src");
 
