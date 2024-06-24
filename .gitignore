@@ -4,7 +4,7 @@ rom
 shc
 asm
 build
-*.sub
+lnk.sub
 *.bin
 *.elf
 *.map

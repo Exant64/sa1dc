@@ -1,0 +1,1 @@
+-string=const -sjis -comment=nonest -cpu=sh4 -division=cpu -fpu=single -endian=little -extra=a=1800 -optimize=1 -pic=0 -macsave=0 -speed -loop -string=const -round=nearest -inline -aggressive=2 -code=asmcode 

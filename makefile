@@ -51,8 +51,7 @@ export WSLENV=SHC_LIB/p:SHC_TMP/p
 #the source dir (original layout was like that too) and katana includes
 INCLUDEDIRS := src,Include,$(SHC_DIR)\\include
 
-CFLAGS := -comment=nonest -cpu=sh4 -division=cpu -extra=a=1800 -optimize=1 -pic=0 -macsave=0 \
-	-speed -endian=little -string=const -code=asmcode -include=$(INCLUDEDIRS)
+CFLAGS := -sub=shc.sub -include=$(INCLUDEDIRS)
 
 ASFLAGS := -cpu=sh4 -endian=little -sjis -include=asm
 
